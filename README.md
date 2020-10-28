@@ -5,7 +5,11 @@
 
 This repository contains python code (scripts and jupyter notebooks) for generation and processing of the results of [arXiv:2010.11783](https://arxiv.org/abs/2010.11783).  Results are obtained using the [PyRoss](https://github.com/rajeshrinet/pyross) library to analyse an epidemiological compartment model for COVID-19 in England and Wales, during March-May 2020.
 
-Running the code requires `PyRoss`.  See <https://github.com/rajeshrinet/pyross> for installation instructions etc.
+Running the code requires `PyRoss`, see
+<https://github.com/rajeshrinet/pyross>, or quick-install using
+```bash
+>> pip install -r requirements.txt
+```
 
 ### Repo contents 
 (see [arXiv:2010.11783](https://arxiv.org/abs/2010.11783) for definitions of terms.)
