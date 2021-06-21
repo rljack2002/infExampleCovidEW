@@ -14,7 +14,9 @@ Running the code requires `PyRoss`, see
 ### Repo contents 
 (see [arXiv:2010.11783](https://arxiv.org/abs/2010.11783) for definitions of terms.)
 
-Folders (subdirectories) for model variants (the names indicate the sources used for *contact matrices*)
+The folder `SimpleTestModel` contains a simple model to validate the inference methodology.
+
+Other folders (subdirectories) for variants of the model for COVID-19 in England/Wales (the names indicate the sources used for *contact matrices*)
 * `fumanelli-step` : $`C^F`$ variant, step-like NPI
 * `prem-step` : $`C^P`$ variant
 * `mix-step` : $`C^M`$ variant
