@@ -1,7 +1,7 @@
 ### Data for "Efficient Bayesian inference of fully stochastic epidemiological models with applications to COVID-19."
 #### Yuting I. Li *et al.*, [Roy. Soc. Open Sci. 8, 211065 (2021)](https://doi.org/10.1098/rsos.211065).  
 
-The contents of this repo are also available at [https://doi.org/10.17863/CAM.72839](https://doi.org/ 10.17863/CAM.72839).
+The contents of this repo are also available at [DOI:17863/CAM.72839](https://doi.org/10.17863/CAM.72839).
 
 ### Overview
 
