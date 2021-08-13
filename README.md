@@ -1,9 +1,13 @@
 ### Data for "Efficient Bayesian inference of fully stochastic epidemiological models with applications to COVID-19."
-#### Yuting I. Li *et al.*, [arXiv:2010.11783](https://arxiv.org/abs/2010.11783)
+#### Yuting I. Li *et al.*, [Roy. Soc. Open Sci. 8, 211065 (2021)](https://doi.org/10.1098/rsos.211065).  
+
+The contents of this repo are also available at [https://doi.org/10.17863/CAM.72839](https://doi.org/ 10.17863/CAM.72839).
 
 ### Overview
 
-This repository contains python code (scripts and jupyter notebooks) for generation and processing of the results of [arXiv:2010.11783](https://arxiv.org/abs/2010.11783).  Results are obtained using the [PyRoss](https://github.com/rajeshrinet/pyross) library to analyse an epidemiological compartment model for COVID-19 in England and Wales, during March-May 2020.
+This repository contains python code (scripts and jupyter notebooks) for generation and processing of the results of 
+[Roy. Soc. Open Sci. 8, 211065 (2021)](https://doi.org/10.1098/rsos.211065).  
+Results are obtained using the [PyRoss](https://github.com/rajeshrinet/pyross) library to analyse an epidemiological compartment model for COVID-19 in England and Wales, during March-May 2020.
 
 Running the code requires `PyRoss`, see
 <https://github.com/rajeshrinet/pyross>, or quick-install using
@@ -12,7 +16,7 @@ Running the code requires `PyRoss`, see
 ```
 
 ### Repo contents 
-(see [arXiv:2010.11783](https://arxiv.org/abs/2010.11783) for definitions of terms.)
+(see [Roy. Soc. Open Sci. 8, 211065 (2021)](https://doi.org/10.1098/rsos.211065) for definitions of terms.)
 
 The folder `SimpleTestModel` contains a simple model to validate the inference methodology.
 
